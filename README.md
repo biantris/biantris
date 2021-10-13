@@ -4,7 +4,7 @@
 
 ----
 
-<p align="center">
+<p align="center" height="300px">
     <a href="https://github.com/beatrizoliveiira">
         <img src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
         alt="Github">
@@ -23,3 +23,5 @@
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/beatrizoliveira)](https://dev.to/beatrizoliveira)
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://beatrizoliveiraa.medium.com/)](https://beatrizoliveiraa.medium.com/)
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
