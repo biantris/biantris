@@ -21,6 +21,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
         alt="Github">
     </a>
+    <br />
      <a href="https://github.com/beatrizoliveiira">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizoliveiira&hide=html&layout=compact&theme=dark"
         alt="Linguagens mais usadas">
