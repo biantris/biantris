@@ -1,16 +1,25 @@
-### Hi there 👋
+### Beatriz Oliveira 👾
 
-<!--
-**beatrizoliveiira/beatrizoliveiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology 🛸
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/beatrizoliveiira">
+        <img src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
+        alt="Github">
+    </a>
+     <a href="https://github.com/beatrizoliveiira">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizoliveiira&hide=html&layout=compact&theme=dark"
+        alt="Linguagens mais usadas">
+    </a>
+</p>
+
+-----
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/biantris_)](https://twitter.com/biantris_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-F954AD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anabeaoliver/)](https://www.instagram.com/anabeaoliver/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
+[![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/biantriz)](https://www.twitch.tv/biantriz)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/beatrizoliveira)](https://dev.to/beatrizoliveira)
+[![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://beatrizoliveiraa.medium.com/)](https://beatrizoliveiraa.medium.com/)
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
