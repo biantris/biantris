@@ -1,10 +1,22 @@
-### Beatriz Oliveira 👾
+<h2 align="center"> Beatriz Oliveira 👾 </h2>
 
+<p align="center">
 - I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology 🛸
+</p>
+
+<p align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=biantris_">
+        <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+    <a href="https://www.twitch.tv/biantriz">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantriz?style=social">
+    </a>
+</p>
 
 ----
 
-<p align="center" height="300px">
+<p align="center">
     <a href="https://github.com/beatrizoliveiira">
         <img src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
         alt="Github">
