@@ -41,3 +41,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
     
  </div>
+ 
+ <div align="center">
+
+ Main project: [**my-fullstack-journey**](https://github.com/beatrizoliveiira/my-fullstack-journey) =>  Repositories that contain everything I've created and studied
+    
+</div>
