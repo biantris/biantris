@@ -18,17 +18,18 @@
 
 <p align="center">
     <a href="https://github.com/beatrizoliveiira">
-        <img src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
         alt="Github">
     </a>
-    <br />
      <a href="https://github.com/beatrizoliveiira">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizoliveiira&hide=html&layout=compact&theme=dark"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizoliveiira&hide=html&layout=compact&theme=dark"
         alt="Linguagens mais usadas">
     </a>
 </p>
 
 -----
+<div align="center">
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/biantris_)](https://twitter.com/biantris_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F954AD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anabeaoliver/)](https://www.instagram.com/anabeaoliver/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
@@ -38,3 +39,5 @@
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
+    
+ </div>
