@@ -1,7 +1,7 @@
 <h1 align="center"> Beatriz Oliveira </h1>
 
 <p align="center">
-- I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology 🛸
+- I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology
 </p>
 
 <div align="center">
@@ -44,6 +44,6 @@
  
  <div align="center">
 
- Main project: [**my-fullstack-journey**](https://github.com/beatrizoliveiira/my-fullstack-journey) =>  Repositories that contain everything I've created and studied
+ Main project => [**my-fullstack-journey**](https://github.com/beatrizoliveiira/my-fullstack-journey) =>  Repositories that contain everything I've created and studied
     
 </div>
