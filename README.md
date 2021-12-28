@@ -14,6 +14,8 @@
     </a>
 </div>
 
+----
+
 <div align="center">
     <a href="https://github.com/beatrizoliveiira">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
@@ -24,6 +26,8 @@
         alt="Linguagens mais usadas">
     </a>
 </div>
+
+----
 
 <div align="center">
 
