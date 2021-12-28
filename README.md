@@ -14,8 +14,6 @@
     </a>
 </div>
 
----
-
 <div align="center">
     <a href="https://github.com/beatrizoliveiira">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
@@ -27,7 +25,6 @@
     </a>
 </div>
 
------
 <div align="center">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/biantris_)](https://twitter.com/biantris_)
