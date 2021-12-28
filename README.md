@@ -17,12 +17,12 @@
 ----
 
 <div align="center">
-    <a href="https://github.com/beatrizoliveiira">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizoliveiira&theme=dark"
+    <a href="https://github.com/biantris">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biantris&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Github">
     </a>
-     <a href="https://github.com/beatrizoliveiira">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizoliveiira&hide=html&layout=compact&theme=dark"
+     <a href="https://github.com/biantris">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Linguagens mais usadas">
     </a>
 </div>
@@ -45,6 +45,6 @@
  
  <div align="center">
 
- Main project => [**my-fullstack-journey**](https://github.com/beatrizoliveiira/my-fullstack-journey) =>  Repositories that contain everything I've created and studied
+ Main project => [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey) =>  Repositories that contain everything I've created and studied
     
 </div>
