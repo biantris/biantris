@@ -45,6 +45,6 @@
  
  <div align="center">
 
- Main project => [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey) =>  Repositories that contain everything I've created and studied
+ Main project => [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey) <=  Repositories that contain everything I've created and studied
     
 </div>
