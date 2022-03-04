@@ -47,6 +47,6 @@
 
  Main project => [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey) <=  Repositories that contain everything I've created and studied
     
- <p> Feel free to support me in creating quality content through Patreon </p>
+ <p> Feel free to support me in creating quality content through Patreon: </p>
     <a href="https://patreon.com/beatrizoliveira"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbeatrizoliveira%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
 </div>
