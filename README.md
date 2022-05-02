@@ -1,7 +1,7 @@
 <h1 align="center"> Beatriz Oliveira </h1>
 
 <p align="center">
-~ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology
+~ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
 </p>
 
 <div align="center">
@@ -44,8 +44,18 @@
  </div>
  
  <div align="center">
+    
+ Full-Stack Software Engineer | 🏳️‍🌈
+    
+ *Focused on stack with JavaScript*
 
- Main project => [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey) <=  Repositories that contain everything I've created and studied
+ [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey): Repositories that contain everything I've created and studied
+ 
+ [**koa-server**](https://github.com/biantris/koa-server): Back-End project is a nodeJS(koa) server with GraphQL and Relay
+ 
+ [**space-tourism**](https://github.com/biantris/space-tourism): Front-end project with NextTS, Styled components, Storybook and tests with Jest and Testing Library
+ 
+ [**nerdflix**](https://github.com/biantris/nerdflix): Front-end project with ReactJS, Storybook and tests with Jest and Testing Library
     
  <p> Feel free to support me in creating quality content through Patreon: </p>
     <a href="https://patreon.com/beatrizoliveira"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbeatrizoliveira%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
