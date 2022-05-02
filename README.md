@@ -56,6 +56,8 @@
  [**space-tourism**](https://github.com/biantris/space-tourism): Front-end project with NextTS, Styled components, Storybook and tests with Jest and Testing Library
  
  [**nerdflix**](https://github.com/biantris/nerdflix): Front-end project with ReactJS, Storybook and tests with Jest and Testing Library
+ 
+---
     
  <p> Feel free to support me in creating quality content through Patreon: </p>
     <a href="https://patreon.com/beatrizoliveira"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbeatrizoliveira%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
