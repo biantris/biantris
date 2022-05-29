@@ -51,11 +51,9 @@
 
  [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey): Repositories that contain everything I've created and studied
  
- [**koa-server**](https://github.com/biantris/koa-server): Back-End project is a nodeJS(koa) server with GraphQL and Relay
- 
- [**space-tourism**](https://github.com/biantris/space-tourism): Front-end project with NextTS, Styled components, Storybook and tests with Jest and Testing Library
- 
- [**nerdflix**](https://github.com/biantris/nerdflix): Front-end project with ReactJS, Storybook and tests with Jest and Testing Library
+ [**koa-server**](https://github.com/biantris/koa-server): Back-end project is a nodeJS(koa) server with GraphQL and Relay
+
+ [**graphql-relay-web**](https://github.com/biantris/graphql-relay-web): Front-end build with React, Relay and GraphQL
  
 ---
     
