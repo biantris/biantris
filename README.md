@@ -16,16 +16,18 @@
 
 ----
 
-<div align="center">
-    <a href="https://github.com/biantris">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biantris&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Github">
-    </a>
+<div align="right">
      <a href="https://github.com/biantris">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Linguagens mais usadas">
+        alt="Linguagens mais usadas" align="right">
     </a>
 </div>
+
+Hi my name is Beatriz Oliveira [(biantris)](https://twitter.com/biantris_) \o/ I am 19 years old and I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
+
+Experience in **Full-stack development** with **TypeScript**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
+
+UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems, using Figma as the principal tool.
 
 ----
 
