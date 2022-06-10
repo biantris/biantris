@@ -51,7 +51,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
     
  *Focused on stack with JavaScript*
 
- [**my-fullstack-journey**](https://github.com/biantris/my-fullstack-journey): Repositories that contain everything I've created and studied
+ [**braintris**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
  
  [**koa-server**](https://github.com/biantris/koa-server): Back-end project is a nodeJS(koa) server with MongoDB(Mongoose), GraphQL and Relay
 
