@@ -49,7 +49,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
     
  Full-Stack Software Engineer | 🏳️‍🌈
     
- *Focused on stack with JavaScript*
+ *Focused on JavaScript stack*
 
  [**braintris**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
  
