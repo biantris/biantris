@@ -1,8 +1,12 @@
 <h1 align="center"> Beatriz Oliveira </h1>
 
-<p align="center">
+<div align="center">
+Software Engineer | 🏳️‍🌈
+    
+*Focused on JavaScript stack*
+
 ~ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
-</p>
+</div>
 
 <div align="center">
     <a href="https://twitter.com/intent/follow?screen_name=biantris_">
@@ -14,7 +18,7 @@
     </a>
 </div>
 
-----
+---
 
 <div align="right">
      <a href="https://github.com/biantris">
@@ -46,11 +50,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  </div>
  
  <div align="center">
-    
- Full-Stack Software Engineer | 🏳️‍🌈
-    
- *Focused on JavaScript stack*
-
+   
  [**braintris**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
  
  [**koa-server**](https://github.com/biantris/koa-server): Back-end project is a nodeJS(koa) server with MongoDB(Mongoose), GraphQL and Relay
