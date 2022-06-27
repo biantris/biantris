@@ -27,7 +27,7 @@ Software Engineer | 🏳️‍🌈
     </a>
 </div>
 
-Hi my name is Beatriz Oliveira [(biantris)](https://twitter.com/biantris_) \o/ I am 19 years old and I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
+Hi my name is Beatriz Oliveira [(biantris)](https://twitter.com/biantris_) \o/ I am 20 years old and I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
 Experience in **Full-stack development** with **TypeScript**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
 
