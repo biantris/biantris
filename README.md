@@ -29,7 +29,7 @@ Software Engineer | 🏳️‍🌈
 
 Hi my name is Beatriz Oliveira [**(biantris)**](https://twitter.com/biantris_) \o/ I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
-Experience in **Full-stack Development** with **TypeScript**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
+Experience in **Full-Stack Development** with **TypeScript**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
 
 UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems, using Figma as the principal tool.
 
