@@ -40,7 +40,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/biantris_)](https://twitter.com/biantris_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F954AD?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anabeaoliver/)](https://www.instagram.com/biantrisdev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
-[![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/biantriz)](https://www.twitch.tv/biantriz)
+[![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/biantris)](https://www.twitch.tv/biantris)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/beatrizoliveira)](https://dev.to/beatrizoliveira)
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://beatrizoliveiraa.medium.com/)](https://beatrizoliveiraa.medium.com/)
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
