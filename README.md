@@ -5,7 +5,7 @@ Software Engineer | 🏳️‍🌈
     
 *Focused on JavaScript stack*
 
-~ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
+➜ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ Experience in **Full-Stack Development** with **TypeScript**, **React**, **Graph
 
 UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems, using Figma as the principal tool.
 
-> My CV [here](https://www.cvkeep.com/cv/266e7beb0afd30a7b2199fd713d7684b) 📄
+> my cv [here](https://www.cvkeep.com/cv/266e7beb0afd30a7b2199fd713d7684b) 📄
 
 <div align="center">
 
