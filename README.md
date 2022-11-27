@@ -5,7 +5,7 @@ Software Engineer | 🏳️‍🌈
     
 *Focused on JavaScript stack*
 
-➜ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
+I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
 </div>
 
 <div align="center">
