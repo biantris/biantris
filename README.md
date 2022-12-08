@@ -35,8 +35,6 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
 
 > my cv [here](https://www.cvkeep.com/cv/266e7beb0afd30a7b2199fd713d7684b) 📄
 
-> my professional account [anabiadev](https://github.com/anabiadev) 💼
-
 <div align="center">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/biantris_)](https://twitter.com/biantris_)
