@@ -19,14 +19,13 @@ I'm just a weird person who wants to change (at least a little) the world for th
 </div>
 
 ---
-<!---
+
 <div align="right">
      <a href="https://github.com/biantris">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
--->
 
 Hi my name is Beatriz Oliveira [**(biantris)**](https://twitter.com/biantris_) \o/ I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
@@ -51,10 +50,10 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
 
 ----
  
- <div align="center">
+ <div align="left">
     
- <!---
-   
+ **PROJECTS**
+    
  [**braintris**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
  
  [**koa-server**](https://github.com/biantris/koa-server): Back-end project is a NodeJS(KoaJS) server with MongoDB(Mongoose), GraphQL(Relay) and Jest Tests
@@ -63,8 +62,11 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  
  [**restris**](https://github.com/biantris/restris): Functional Backend implementation of REST API with NodeJS(KoaJS) MongoDB and Jest Tests
 
+ **WORKING ON**
+ 
+ [**physio system**](): 🚧wip🚧
+
 ---
--->
     
  <p> Feel free to support me in creating quality content through Patreon: </p>
     <a href="https://patreon.com/beatrizoliveira"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbeatrizoliveira%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
