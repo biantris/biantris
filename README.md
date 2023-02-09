@@ -13,8 +13,8 @@ I'm just a weird person who wants to change (at least a little) the world for th
         <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.twitch.tv/biantriz">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantriz?style=social">
+    <a href="https://www.twitch.tv/biantris">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/biantris?style=social">
     </a>
 </div>
 
@@ -65,9 +65,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  [**asktris**](https://github.com/biantris/asktris): My Personal Fullstack Playground 
 
  **WORKING ON**
- 
- [**physio system 👨‍⚕**](): 🚧 wip 🚧
- 
+  
  [**seujardineiro 🌱**](https://www.seujardineiro.com/): Notification and monitoring platform that helps you manage the care of your plants
 
 ---
