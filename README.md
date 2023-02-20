@@ -20,9 +20,22 @@ I'm just a weird person who wants to change (at least a little) the world for th
 
 ---
 
+<!---
 <div align="right">
      <a href="https://github.com/biantris">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        alt="Linguagens mais usadas" align="right">
+    </a>
+</div>
+-->
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<div align="right">
+     <a href="https://github.com/biantris">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&langs_count=8&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
