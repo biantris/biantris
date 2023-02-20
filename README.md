@@ -20,25 +20,16 @@ I'm just a weird person who wants to change (at least a little) the world for th
 
 ---
 
-<!---
 <div align="right">
      <a href="https://github.com/biantris">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
--->
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<div align="right">
-     <a href="https://github.com/biantris">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&langs_count=8&theme=radical"
-        alt="Linguagens mais usadas" align="right">
-    </a>
-</div>
 
 Hi my name is Beatriz Oliveira a.k.a [**@biantris**](https://twitter.com/biantris_) \o/ I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
