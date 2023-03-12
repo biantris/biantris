@@ -22,7 +22,7 @@ I'm just a weird person who wants to change (at least a little) the world for th
 
 <div align="right">
      <a href="https://github.com/biantris">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=8&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
