@@ -56,7 +56,8 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  
  <div align="left">
     
- **PROJECTS**
+ <details>
+ <summary><b>PROJECTS</b></summary>
     
  [**braintris**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
  
@@ -68,9 +69,16 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  
  [**asktris**](https://github.com/biantris/asktris): My Personal Fullstack Playground 
 
- **WORKING ON**
+</summary>
+</details>
+ 
+ <details>
+ <summary><b>WORKING ON</b></summary>
   
  [**seujardineiro 🌱**](https://www.seujardineiro.com/): Notification and monitoring platform that helps you manage the care of your plants
+ 
+ </summary>
+ </details>
 
 ---
     
