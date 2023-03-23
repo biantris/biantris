@@ -49,6 +49,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
+[![wakatime](https://wakatime.com/badge/user/a7b864a7-098d-4f5b-809c-15aa32cbd393.svg)](https://wakatime.com/@a7b864a7-098d-4f5b-809c-15aa32cbd393)
     
  </div>
 
