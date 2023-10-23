@@ -67,8 +67,6 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  
  [**restris**](https://github.com/biantris/restris): Functional Backend implementation of REST API with NodeJS(KoaJS) MongoDB and Jest Tests
  
- [**parquinho**](https://github.com/biantris/parquinho): My Personal Fullstack Playground 
-
 </summary>
 </details>
  
