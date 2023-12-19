@@ -72,9 +72,7 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  
  <details>
  <summary><b>WORKING ON</b></summary>
-  
- [**seujardineiro 🌱**](https://www.seujardineiro.com/): Notification and monitoring platform that helps you manage the care of your plants
- 
+  soon... 
  </summary>
  </details>
 
