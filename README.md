@@ -1,11 +1,11 @@
 <h1 align="center"> Beatriz Oliveira </h1>
 
 <div align="center">
-Software Engineer | 🏳️‍🌈
+Software Engineer
     
 *Focused on JavaScript stack*
 
-I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
+I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology 
 </div>
 
 <div align="center">
@@ -77,7 +77,8 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  </details>
 
 ---
-    
+<!---
  <p> Feel free to support me in creating quality content through Patreon: </p>
     <a href="https://patreon.com/beatrizoliveira"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbeatrizoliveira%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
+    --->
 </div>
