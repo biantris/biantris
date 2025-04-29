@@ -33,7 +33,7 @@ I'm just a weird person who wants to change (at least a little) the world for th
 
 Hi my name is Beatriz Oliveira a.k.a [**@biantris**](https://twitter.com/biantris_) \o/ I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
 
-Experience in **Full-Stack Development** with **TypeScript**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
+Experience in **Full-Stack Development** with **JavaScript** **TypeScript**, **Vue**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
 
 UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems, using Figma as the principal tool.
 
